@@ -11,11 +11,12 @@ They have given a problem to identify the customers segments which are eligible 
 **Libraries:** Numpy,Pandas,Matplotlib,Seaborn  
 Dataset downloaded from kaggle- https://www.kaggle.com/rikdifos/credit-card-approval-prediction  
 **files:** Application Record, Credit Record  
-**Steps Involved:**Importing Libraries  
-                Loading Datasets  
-                Performing EDA  
-                Feature Selection  
-                Model Evaluation  
+**Steps Involved:**
+Importing Libraries    
+Loading Datasets    
+Performing EDA   
+Feature Selection    
+Model Evaluation    
 **Conclusion:** Accuracy scores for different models are  
 Logistic Regression: 51%  
 Decision Tree Classification: 67%  
