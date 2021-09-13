@@ -1,6 +1,6 @@
-Project Title: Credit Card Approval Prediction
-Description:
-Supervised Machine learning 
+Project Title: Credit Card Approval Prediction  
+Description:  
+Supervised Machine learning  
 ##Classification Problem
 To Build a machine learning model to predict if an applicant is 'good' or 'bad' client, different from other tasks, the definition of 'good' or 'bad' is not given. You should use some techique
 Problem Statment - A Company wants to automate the Credit Card eligibility process based on customer detail provided while filling online application form & Credit history of customer.
