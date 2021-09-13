@@ -5,7 +5,7 @@ Classification Problem
 To Build a machine learning model to predict if an applicant is 'good' or 'bad' client, different from other tasks, the definition of 'good' or 'bad' is not given.  
 **Problem Statment** - A Company wants to automate the Credit Card eligibility process based on customer detail provided while filling online application form & Credit history of customer.  
 They have given a problem to identify the customers segments which are eligible for Credit Card approval, so that they can specifically target these customers.  
-**Getting Started: ** 
+**Getting Started:  
 **Tools used:** Jupyter Notebook  
 **Languages**: python  
 **Libraries:** Numpy,Pandas,Matplotlib,Seaborn  
