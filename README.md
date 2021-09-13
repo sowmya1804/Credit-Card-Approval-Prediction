@@ -25,6 +25,6 @@ K Nearest Neighbour: 46%
 Random Forest Model: 71%  
 XGBOOST Model: 84%  
 
-As we have seen that, XGBoost Model is giving highest accuracy of 84%, hence we will use **XGBoost Model** for predicion
+As we have seen that, XGBoost Model is giving highest accuracy of **84%**, hence we will use **XGBoost Model** for predicion
                 
                 
