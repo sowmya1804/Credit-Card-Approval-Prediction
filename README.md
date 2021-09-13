@@ -11,7 +11,7 @@ They have given a problem to identify the customers segments which are eligible 
 **Libraries:** Numpy,Pandas,Matplotlib,Seaborn  
 Dataset downloaded from kaggle- https://www.kaggle.com/rikdifos/credit-card-approval-prediction  
 **files:** Application Record, Credit Record  
-**Steps Involved:**
+**Steps Involved:**  
 Importing Libraries    
 Loading Datasets    
 Performing EDA   
