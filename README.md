@@ -16,11 +16,11 @@ Dataset downloaded from kaggle- https://www.kaggle.com/rikdifos/credit-card-appr
 **files:** Application Record, Credit Record  
 
 ## Table Of Contents
-1)Importing Libraries    
-2)Loading Datasets    
-3)Performing EDA   
-4)Feature Selection    
-5)Model Evaluation    
+1) Importing Libraries    
+2) Loading Datasets    
+3) Performing EDA   
+4) Feature Selection    
+5) Model Evaluation    
 
 ## Conclusion
 Accuracy scores for different models are  
