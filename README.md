@@ -15,7 +15,7 @@ They have given a problem to identify the customers segments which are eligible 
 Dataset downloaded from kaggle- https://www.kaggle.com/rikdifos/credit-card-approval-prediction  
 **files:** Application Record, Credit Record  
 
-## Table Of Contents
+## Steps Involved
 1) Importing Libraries    
 2) Loading Datasets    
 3) Performing EDA   
